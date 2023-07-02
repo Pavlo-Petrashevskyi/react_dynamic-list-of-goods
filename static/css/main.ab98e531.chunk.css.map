@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,WACE,UAAW,CACZ,UAGC,SAAU,CACX,YAGC,WAAY","file":"main.ab98e531.chunk.css","sourcesContent":[".good {\n  &-blue {\n    color: blue;\n  }\n\n  &-red {\n    color: red;\n  }\n\n  &-green {\n    color: green;\n  }\n}\n"]}
